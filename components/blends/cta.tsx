@@ -10,13 +10,13 @@ export function CTA() {
 
       <div className="mt-6 flex flex-wrap items-center gap-2 sm:gap-3">
         <a
-          href="https://ysrephzg.formester.com/f/k6YG0qQ6E"
+          href="https://play.google.com/store/apps/details?id=com.blends.app"
           target="_blank"
           rel="noopener noreferrer"
           className="rounded-md bg-[color:var(--blend-primary)] px-4 sm:px-5 py-2 sm:py-2.5 text-xs sm:text-sm font-medium hover:bg-[color:var(--blend-accent)] transition-colors"
           aria-label="Apply for Blends beta launch"
         >
-          Apply for Beta Launch
+          Apply for Pre-registration
         </a>
       </div>
 

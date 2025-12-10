@@ -43,12 +43,12 @@ export default function BlendsPage() {
             </a>
           </nav>
           <a
-            href="https://ysrephzg.formester.com/f/k6YG0qQ6E"
+            href="https://play.google.com/store/apps/details?id=com.blends.app"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-md bg-[color:var(--blend-primary)] px-3 sm:px-4 py-2 text-xs sm:text-sm font-medium hover:bg-[color:var(--blend-accent)] transition-colors flex-shrink-0"
           >
-            Apply for Beta Launch
+            Apply for Pre-registration
           </a>
         </div>
       </header>

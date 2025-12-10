@@ -35,7 +35,7 @@ export function BenefitsClubs() {
           </ul>
         </div>
 
-        <div
+        {/* <div
           className="order-1 md:order-2 rounded-xl border border-[color:var(--blend-muted)]/30 bg-white/5 p-4 overflow-hidden max-w-md mx-auto md:mx-0 w-full"
           aria-label="Organizer dashboard preview"
         >
@@ -46,7 +46,7 @@ export function BenefitsClubs() {
             loading="lazy"
             decoding="async"
           />
-        </div>
+        </div> */}
       </div>
     </div>
   )
